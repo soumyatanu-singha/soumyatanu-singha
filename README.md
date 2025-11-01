@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <!-- 👉 Replace "username" below with your GitHub username -->
-  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=green&style=flat" alt="username" />
+  <img src="https://komarev.com/ghpvc/?username=soumyatanu-singha&label=Profile%20views&color=green&style=flat" alt="username" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 - 📱 Exploring 
 - 🎨 Passionate about 
 - 📚 Always eager to 
-- 📫 Reach me at [**youremail@example.com**](mailto:youremail@example.com) <!-- 👉 Replace with your email -->
+- 📫 Reach me at [**soumyatanusingha@gmail.com**](mailto:soumyatanusingha@gmail.com) <!-- 👉 Replace with your email -->
 
 ---
 
@@ -55,9 +55,9 @@
 
 <p align="center">
   <!-- 👉 Replace "username" in all URLs below with your GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=donut-vertical&theme=radical&langs_count=10&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soumyatanu-singha&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyatanu-singha&layout=donut-vertical&theme=radical&langs_count=10&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyatanu-singha&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
